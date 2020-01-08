@@ -1,0 +1,4 @@
+Bundle-Name: fileentries-cuervo-transporte
+Bundle-SymbolicName: mx.com.cuervo.transporte.fileentries.service
+Bundle-Version: 1.0.0
+Export-Package: mx.com.cuervo.transporte.fileentries.service.api
